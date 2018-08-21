@@ -38,7 +38,7 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 - [ ] Write out a simple image classifier using Tensorflow
 
 ## Week 5 - Generative Adversarial Network
-- [ ] Watch the first 7 videos you see [here](https://www.youtube.com/results?search_query=generative+adversarial+network)
+- [ ] Watch the all 7 videos in the playlist : https://www.youtube.com/watch?v=Sw9r8CL98N0&list=PLvVo5FtWkqeJmjmXMh_MjNl6XLHw5Gzmd
 - [ ] Build a GAN using no ML libraries
 - [ ] Build a GAN using tensorflow
 - [ ] Read this to understand the math of GANs, but don't worry if you dont understand it all. This is the bleeding edge [here](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
